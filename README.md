@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tyrel
 
-I'm a software engineer from Victoria BC Canada.
+I'm a software developer from Victoria BC Canada.
 
 ## 📓 Latest Articles
 * [Resources I Found Valuable in 2022](https://superflux.dev/blog/resources-2022) Jan 20 2023
