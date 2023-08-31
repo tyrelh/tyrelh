@@ -2,7 +2,7 @@
 
 I'm a software developer from Victoria BC Canada.
 
-## 📓 Latest Articles
+## 📓 Articles
 * [Book Notes: DevOps Handbook](https://superflux.dev/blog/book-notes-devops-handbook) Aug 27 2023
 * [How I use my Synology NAS as my personal cloud](https://superflux.dev/blog/synology-nas-how-i-use-it-as-my-personal-cloud) Aug 15 2023
 * [Deploy a Next.js Static Site to GitHub Pages](https://superflux.dev/blog/github-pages-using-nextjs) Jul 25 2023
