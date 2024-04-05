@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tyrel
 
-I'm a software developer from Victoria BC Canada.
+I'm a software developer and platform developer from Victoria BC Canada.
 
 ## 📓 Articles
 - [Static Site Search Part 1 - Preprocessing Articles](https://superflux.dev/blog/static-site-search-preprocessing-articles) Apr 3 2024
