@@ -3,6 +3,7 @@
 I'm a software & platform developer from Victoria BC Canada.
 
 ## 📓 Articles
+- [Static Site Search Part 3 - Optimizing the Index](https://superflux.dev/blog/static-site-search-optimizing-the-index) Apr 18 2024
 - [Static Site Search Part 2 - Search Component](https://superflux.dev/blog/static-site-search-search-component) Apr 10 2024
 - [Static Site Search Part 1 - Preprocessing Articles](https://superflux.dev/blog/static-site-search-preprocessing-articles) Apr 3 2024
 - [Next.js Tag Pages](https://superflux.dev/blog/nextjs-tag-pages) Mar 25 2024
