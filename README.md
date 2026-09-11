@@ -10,7 +10,7 @@ I'm a senior software & platform developer from Victoria BC Canada.
 - [Container orchestrator written in Go](https://github.com/tyrelh/cube-orchestrator): Project from following this book [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go-from-scratch)
 
 ## 📓 Articles
-- [AWS Solutions Architect Associate Certification](https://superflux.dev/blog/aws-solutions-architect-associate-certification) Jan 20 2025
+- [AWS Solutions Architect Associate Certification](https://superflux.dev/blog/aws-solutions-architect-associate-certification) Jun 20 2025
 - [Markdown based code block syntax highlighting](https://superflux.dev/blog/markdown-code-block-syntax-highlighting) Dec 24 2024
 - [Static Site Search Part 3 - Optimizing the Index](https://superflux.dev/blog/static-site-search-optimizing-the-index) Apr 18 2024
 - [Static Site Search Part 2 - Search Component](https://superflux.dev/blog/static-site-search-search-component) Apr 10 2024
